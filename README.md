@@ -1,6 +1,6 @@
 How to deploy a Node.js program to Bluemix
 ==========================================
-
+just for testing
 
 1.	First of all, you should have a Bluemix account and a Git account. 
 
